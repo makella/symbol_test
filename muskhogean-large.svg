@@ -4,9 +4,9 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="14px" height="14px" viewBox="0 0 14 14" enable-background="new 0 0 14 14" xml:space="preserve">
 <g>
-	<circle fill="#CDB079" fill-opacity="0.6" stroke="#CDB079" stroke-miterlimit="10" cx="7" cy="7" r="6"/>
+	<circle fill="#CDB079" fill-opacity="0.6" stroke="#B59B6A" stroke-miterlimit="10" cx="7" cy="7" r="6"/>
 	
-		<circle fill="#D6BD91" fill-opacity="0.8" stroke="#CDB079" stroke-width="0.5" stroke-miterlimit="10" cx="6.981" cy="7" r="4.8"/>
+		<circle fill="#D6BD91" fill-opacity="0.8" stroke="#B59B6A" stroke-width="0.5" stroke-miterlimit="10" cx="6.981" cy="7" r="4.8"/>
 	<circle fill="#E0CBAC" cx="6.963" cy="7" r="3.6"/>
 	<circle fill="#DFCBAB" cx="6.963" cy="6.999" r="3.569"/>
 	<circle fill="#DFCAAA" cx="6.964" cy="6.998" r="3.539"/>
